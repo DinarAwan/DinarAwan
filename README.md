@@ -21,6 +21,7 @@ I'm Dinar Awan, a passionate backend web developer who loves building fast, scal
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📫 Contact Me
+- [LinkedIn]([https://linkedin.com/in/dinar-soniawan-720625306](https://www.instagram.com/code_awan?igsh=MTd6N29vb2VucHdvNA==)) 
 - [LinkedIn](https://linkedin.com/in/dinar-soniawan-720625306) 
 - [Email](mailto:masawanex@gmail.com) 
 
