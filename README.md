@@ -4,7 +4,7 @@ I'm Dinar Awan, a passionate backend web developer who loves building fast, scal
 
 ## 🧑‍💻 About Me
 
-- 🔧 **Core Skills**: PHP (Laravel), JavaScript, C++, React
+- 🔧 **Core Skills**: PHP (Laravel), JavaScript, C++, React. NodeJs, Goolang, NextJs
 - 🌱 I enjoy developing backend logic and integrating APIs with responsive frontends.
 - 🚀 Currently focusing on clean code, modern UI with Tailwind & Bootstrap, and deeper Git workflows.
 
